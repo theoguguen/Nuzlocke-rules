@@ -1,0 +1,85 @@
+@font-face {
+    font-family: 'Pokefont';
+    src: url('fonts/font.ttf') format('truetype');
+}
+
+html {
+    background-color: rgb(26, 26, 31)
+}
+
+h1 {
+    box-shadow:21px 2px 3px rgba(16, 16, 19, 0.4);
+    border: 10px outset rgba(16, 16, 19, 0.4);
+    border-radius: 5px;
+    color: #FFCB05;
+    text-align: center;
+    font-family: 'Pokefont';
+    font-size: 50px;
+    margin: auto;
+}
+
+h2 {
+    font-family: 'Pokefont';
+    color: #3A4BC9;
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 1px;
+}
+
+h3 {
+    font-family: 'Pokefont';
+    color: #3A4BC9;
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 1px;
+}
+
+h4 {
+    font-family: 'Pokefont';
+    color: #3A4BC9;
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 1px;
+}
+
+h5 {
+    font-family: 'Pokefont';
+    color: #3A4BC9;
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 1px;
+}
+
+h6 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    color: #FFCB05;
+    font-size: 20px;
+}
+
+ul {
+    text-align: center;
+    color: #FFCB05;
+}
+
+.logo {
+    float: left;
+}
+
+.text {
+    font-size: 15px;
+    color: rgba(104, 104, 104, 0.6);
+    text-decoration: underline;
+}
+
+.text:hover {
+    color: #FFCB05;
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+}
